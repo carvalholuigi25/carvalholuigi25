@@ -14,7 +14,15 @@
 - <p>Email: carvalholuigi25@gmail.com</p>
 - <p>Twitter: https://twitter.com/luigicarvalho26</p>
 
-![Luigi Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=carvalholuigi25&langs_count=10&theme=radical)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical" title="carvalholuigi25's GitHub stats" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalholuigi25&langs_count=10&layout=compact&theme=radical" title="carvalholuigi25's Top Languages" />
+</div>
+<div class="clearfix"></div>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=radical" title="carvalholuigi25's wakatime stats" />
+</div>
 
-![carvalholuigi25's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25)
+<!-- ![carvalholuigi25's GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical)
+![carvalholuigi25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=carvalholuigi25&langs_count=10&layout=default&theme=radical)
+![carvalholuigi25's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=radical) -->
