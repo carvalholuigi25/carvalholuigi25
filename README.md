@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Luis, my friends call me Luigi.
 
-<!--
-**carvalholuigi25/carvalholuigi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on LCPFavThings and other projects
+- 🌱 I’m currently learning ASP Net Core, Angular, Blazor and C#.
 
-Here are some ideas to get you started:
+- 💬 Ask me about: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>Your profession?</li>
+<li>My profession is web programmer, technician and specialist of IT since 2015.</li>
+</ul>
+
+- 📫 How to reach me:
+- <p>Email: carvalholuigi25@gmail.com</p>
+- <p>Twitter: https://twitter.com/luigicarvalho26</p>
+
+![Luigi Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalholuigi25&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalholuigi25&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
