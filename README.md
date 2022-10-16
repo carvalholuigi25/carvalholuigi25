@@ -12,7 +12,6 @@
 
 - 📫 How to reach me:
 - <p>Email: carvalholuigi25@gmail.com</p>
-- <p>Twitter: https://twitter.com/luigicarvalho26</p>
 
 <p align="middle">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical" title="carvalholuigi25's GitHub stats" />
