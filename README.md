@@ -1,6 +1,6 @@
 ### Hi, I'm Luis, my friends call me Luigi.
 
-- 🔭 I’m currently working on LCPFavThings and other projects
+- 🔭 I’m currently working on my own projects related to LCP (Luigi Carvalho Projects).
 - 🌱 I’m currently learning ASP Net Core, Angular, Blazor and C#.
 
 - 💬 Ask me about: 
