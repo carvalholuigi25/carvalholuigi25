@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hi, I'm Luis, my friends call me Luigi.
 
 - 🔭 I’m currently working on my own projects related to LCP (Luigi Carvalho Projects).
