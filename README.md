@@ -27,6 +27,9 @@
 - [![@luiscarvalhodev96](https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Instagram.svg 'Luigi Carvalho Instagram')](https://www.instagram.com/luiscarvalhodev96)
 - [![@carvalholuigi25](https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Twitter.svg 'Luigi Carvalho Twitter')](https://twitter.com/carvalholuigi25) -->
 
+<hr />
+## **My stats:**
+
 <p align="middle">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical" title="carvalholuigi25's GitHub stats" />
 </p>
