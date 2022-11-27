@@ -12,7 +12,7 @@
 <li>My profession is web programmer, technician and specialist of IT since 2015.</li>
 </ul>
 
-- 📫 How to reach me:
+## 📫 **My Contacts and Social Networks:**
 
 <a href="mailto:carvalholuigi25@gmail.com"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Luigi Carvalho Gmail" title="Luigi Carvalho Gmail" width="50" height="50" /></a>
 <a href="https://github.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Github.svg" alt="Luigi Carvalho Github" title="Luigi Carvalho Github" width="50" height="50" /></a>
