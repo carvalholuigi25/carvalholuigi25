@@ -13,11 +13,11 @@
 </ul>
 
 - 📫 How to reach me:
-- <p>Email: carvalholuigi25@gmail.com</p>
-- <p>Github: [@carvalholuigi25](https://github.com/carvalholuigi25)</p>
-- <p>Facebook: [luigicarvalho25](https://www.facebook.com/luigicarvalho25)</p>
-- <p>Instagram: [@luiscarvalhodev96](https://www.instagram.com/luiscarvalhodev96)</p>
-- <p>Twitter: [@carvalholuigi25](https://twitter.com/carvalholuigi25)</p>
+- Email: carvalholuigi25@gmail.com
+- Github: [@carvalholuigi25](https://github.com/carvalholuigi25)
+- Facebook: [luigicarvalho25](https://www.facebook.com/luigicarvalho25)
+- Instagram: [@luiscarvalhodev96](https://www.instagram.com/luiscarvalhodev96)
+- Twitter: [@carvalholuigi25](https://twitter.com/carvalholuigi25)
 
 <p align="middle">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical" title="carvalholuigi25's GitHub stats" />
