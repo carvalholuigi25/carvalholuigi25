@@ -20,7 +20,7 @@
 <a href="https://www.instagram.com/luiscarvalhodev96"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Luigi Carvalho Instagram" title="Luigi Carvalho Instagram" width="50" height="50" /></a>
 <a href="https://twitter.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Luigi Carvalho Twitter" title="Luigi Carvalho Twitter" width="50" height="50" /></a>
 
-## **My stats:**
+## ❗**My stats:**
 
 <p align="middle">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical" title="carvalholuigi25's GitHub stats" />
