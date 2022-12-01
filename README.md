@@ -16,7 +16,8 @@
 
 ## 📫 **My Contacts and Social Networks:**
 
-<a href="mailto:carvalholuigi25@gmail.com"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Luigi Carvalho Gmail" title="Luigi Carvalho Gmail" width="50" height="50" /></a>
+<a href="mailto:luiscarvalho239@gmail.com"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Luigi Carvalho Gmail (Primary Email)" title="Luigi Carvalho Gmail (Primary Email)" width="50" height="50" /></a>
+<a href="mailto:carvalholuigi25@gmail.com"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Luigi Carvalho Gmail (Secondary Email)" title="Luigi Carvalho Gmail (Secondary Email)" width="50" height="50" /></a>
 <a href="https://github.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Github.svg" alt="Luigi Carvalho Github" title="Luigi Carvalho Github" width="50" height="50" /></a>
 <a href="https://www.facebook.com/luigicarvalho25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Luigi Carvalho Facebook" title="Luigi Carvalho Facebook" width="50" height="50" /></a>
 <a href="https://www.instagram.com/luiscarvalhodev96"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Luigi Carvalho Instagram" title="Luigi Carvalho Instagram" width="50" height="50" /></a>
