@@ -36,3 +36,7 @@
 <p align="middle">
  <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=radical" title="carvalholuigi25's wakatime stats" />
 </p>
+
+<div class="d-block mt-3">
+![](https://komarev.com/ghpvc/?username=carvalholuigi25&color=green)
+</div>
