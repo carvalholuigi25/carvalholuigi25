@@ -37,6 +37,4 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=radical" title="carvalholuigi25's wakatime stats" />
 </p>
 
-<p align="middle">
 ![](https://komarev.com/ghpvc/?username=carvalholuigi25&color=green)
-</p>
