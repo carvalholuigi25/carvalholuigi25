@@ -27,13 +27,13 @@
 ## ❗**My stats:**
 
 <p align="middle">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical" title="carvalholuigi25's GitHub stats" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=github_dark&locale=en" title="carvalholuigi25's GitHub stats" />
 </p>
 
 <p align="middle">
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalholuigi25&langs_count=10&layout=compact&theme=radical" title="carvalholuigi25's Top Languages" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalholuigi25&langs_count=10&layout=compact&theme=github_dark&locale=en" title="carvalholuigi25's Top Languages" />
 </p>
 
 <p align="middle">
- <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=radical" title="carvalholuigi25's wakatime stats" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=github_dark&locale=en" title="carvalholuigi25's wakatime stats" />
 </p>
