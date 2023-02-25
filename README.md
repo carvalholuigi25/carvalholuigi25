@@ -37,3 +37,6 @@
 <p align="middle">
  <img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=@carvalholuigi25&theme=github_dark&locale=en" title="carvalholuigi25's wakatime stats" />
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/a626850b-70c9-4c42-8aa5-c8b7c0b88963.svg?style=default)](https://wakatime.com/@carvalholuigi25 "Total time coded since Jul 14 2022")
+[![github](https://img.shields.io/github/followers/carvalholuigi25?logo=github&style=plastic)](https://github.com/carvalholuigi25?tab=followers)
