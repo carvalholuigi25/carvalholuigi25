@@ -23,6 +23,7 @@
 <a href="https://www.instagram.com/luiscarvalhodev96"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Luigi Carvalho Instagram" title="Luigi Carvalho Instagram" width="50" height="50" /></a>
 <a href="https://twitter.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Luigi Carvalho Twitter" title="Luigi Carvalho Twitter" width="50" height="50" /></a>
 <a href="https://discord.gg/hSzJtyVFmH"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Discord.svg" alt="Luigi Carvalho Discord" title="Luigi Carvalho Discord" width="50" height="50" class="img-fluid ico" /></a>
+<a href="https://stackoverflow.com/users/21583094/luigi-carvalho"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Stackoverflow.svg" alt="Luigi Carvalho Stack Overflow" title="Luigi Carvalho Stack Overflow" width="50" height="50" class="img-fluid ico" /></a>
 
 ## ❗**My stats:**
 
