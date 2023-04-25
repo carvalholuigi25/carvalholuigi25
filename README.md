@@ -11,7 +11,7 @@
 
 <ul>
 <li>Your profession?</li>
-<li>My profession is web programmer, technician and specialist of IT since 2015.</li>
+<li>My profession is web programmer, engineer, technician and specialist of IT since 2015.</li>
 </ul>
 
 ## 📫 **My Contacts and Social Networks:**
