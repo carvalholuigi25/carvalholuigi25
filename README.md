@@ -3,7 +3,6 @@
 ## ❓Introduction
 
 <h1 align="center">Hi 👋, I'm Luis Carvalho, my friends call me Luigi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carvalholuigi25&label=Profile%20views&color=0e75b6&style=flat" alt="carvalholuigi25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carvalholuigi25" alt="carvalholuigi25" /></a> </p>
 
@@ -48,3 +47,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carvalholuigi25&show_icons=true&theme=radical&locale=en&layout=compact" alt="carvalholuigi25" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical&locale=en" alt="carvalholuigi25" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carvalholuigi25&theme=dark" alt="carvalholuigi25" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=carvalholuigi25&label=Profile%20views&color=0e75b6&style=flat" alt="carvalholuigi25" /></p>
+
+[![wakatime](https://wakatime.com/badge/user/a626850b-70c9-4c42-8aa5-c8b7c0b88963.svg?style=default)](https://wakatime.com/@carvalholuigi25 "Total time coded since Jul 14 2022")
