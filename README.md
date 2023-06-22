@@ -6,13 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carvalholuigi25" alt="carvalholuigi25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/carvalholuigi25" target="blank"><img src="https://img.shields.io/twitter/follow/carvalholuigi25?logo=twitter&style=for-the-badge" alt="carvalholuigi25" /></a> </p>
+- 🔭 I’m currently working on my own projects related to LCP (Luigi Carvalho Projects).
 
-- 🔭 I’m currently working on [my own projects related to LCP (Luigi Carvalho Projects).](https://carvalholuigi25.github.io/)
-
-- 🌱 I’m currently learning **ASP Net Core, Angular, Blazor and C#.**
-
-- 👨‍💻 All of my projects are available at [https://carvalholuigi25.github.io/](https://carvalholuigi25.github.io/)
+- 🌱 I’m currently learning **React, ASP Net Core, Angular, Blazor and C#.**
 
 - 💬 Ask me about **Your career? My career is web programmer, engineer, technician and specialist of IT since 2015.**
 
