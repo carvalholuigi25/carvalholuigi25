@@ -24,8 +24,6 @@
 <a href="mailto:luiscarvalho239@gmail.com"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Luigi Carvalho Gmail (Primary Email)" title="Luigi Carvalho Gmail (Primary Email)" width="50" height="50" /></a>
 <a href="mailto:carvalholuigi25@gmail.com"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Gmail.svg" alt="Luigi Carvalho Gmail (Secondary Email)" title="Luigi Carvalho Gmail (Secondary Email)" width="50" height="50" /></a>
 <a href="https://github.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Github.svg" alt="Luigi Carvalho Github" title="Luigi Carvalho Github" width="50" height="50" /></a>
-<a href="https://twitter.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Luigi Carvalho Twitter" title="Luigi Carvalho Twitter" width="50" height="50" /></a>
-<a href="https://discord.gg/hSzJtyVFmH"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Discord.svg" alt="Luigi Carvalho Discord" title="Luigi Carvalho Discord" width="50" height="50" class="img-fluid ico" /></a>
 <a href="https://stackoverflow.com/users/21583094/luigi-carvalho"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Stackoverflow.svg" alt="Luigi Carvalho Stack Overflow" title="Luigi Carvalho Stack Overflow" width="50" height="50" class="img-fluid ico" /></a>
 <a href="https://www.reddit.com/user/lusoftdev26"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Reddit.svg" alt="Luigi Carvalho Reddit" title="Luigi Carvalho Reddit" width="50" height="50" class="img-fluid ico" /></a>
 </p>
