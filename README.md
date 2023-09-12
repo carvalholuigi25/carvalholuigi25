@@ -22,7 +22,7 @@
 <a href="https://github.com/carvalholuigi25"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Github.svg" alt="Luigi Carvalho Github" title="Luigi Carvalho Github" width="50" height="50" /></a>
 <a href="https://stackoverflow.com/users/21583094/luigi-carvalho"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Stackoverflow.svg" alt="Luigi Carvalho Stack Overflow" title="Luigi Carvalho Stack Overflow" width="50" height="50" class="img-fluid ico" /></a>
 <a href="https://www.reddit.com/user/lusoftdev26"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Reddit.svg" alt="Luigi Carvalho Reddit" title="Luigi Carvalho Reddit" width="50" height="50" class="img-fluid ico" /></a>
-<a href="https://discord.gg/KrCjf3K8Ud"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Discord.svg" alt="Luigi Carvalho Discord (LCPTech)" title="Luigi Carvalho Discord (LCPTech)" width="50" height="50" class="img-fluid ico" /></a>
+<a href="https://discord.gg/eBEbmWkH"><img src="https://github.com/carvalholuigi25/social-icons/blob/master/SVG/Color/Discord.svg" alt="Luigi Carvalho Discord (LCPTech)" title="Luigi Carvalho Discord (LCPTech)" width="50" height="50" class="img-fluid ico" /></a>
 </p>
 
 ## 🧰 Languages and Tools:
