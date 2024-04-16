@@ -39,6 +39,11 @@
 </details>
 
 <details open>
+  <summary><h1>:musical_note: What i'm listening to?</h1></summary>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=314tgyxmfzgkgmquokob4g4fsfvi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314tgyxmfzgkgmquokob4g4fsfvi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
+</details>
+
+<details open>
   <summary><h1>🏆 My stats</h1></summary>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=carvalholuigi25&show_icons=true&theme=radical&locale=en&layout=compact" alt="carvalholuigi25" /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical&locale=en" alt="carvalholuigi25" /></p>
