@@ -40,7 +40,8 @@
 
 <details open>
   <summary><h1>:musical_note: What i'm listening to?</h1></summary>
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=314tgyxmfzgkgmquokob4g4fsfvi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=314tgyxmfzgkgmquokob4g4fsfvi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]
+
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=314tgyxmfzgkgmquokob4g4fsfvi&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=314tgyxmfzgkgmquokob4g4fsfvi&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)
 </details>
 
 <details open>
