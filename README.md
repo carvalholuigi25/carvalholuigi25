@@ -40,11 +40,8 @@
 
 <details open>
   <summary><h1>:musical_note: What i'm listening to?</h1></summary>
-
-<p>
-    Coming soon...
-</p>
-
+  
+  [![Spotify](https://novatorem-rosy-rho.vercel.app/api/spotify)](https://open.spotify.com/user/b7zaj6ej4kh2gmxt5pf4xw07i)
 </details>
 
 <details open>
