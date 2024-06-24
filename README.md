@@ -41,7 +41,7 @@
 <details open>
   <summary><h1>:musical_note: What i'm listening to?</h1></summary>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b7zaj6ej4kh2gmxt5pf4xw07i&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=b7zaj6ej4kh2gmxt5pf4xw07i&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=b7zaj6ej4kh2gmxt5pf4xw07i&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=b7zaj6ej4kh2gmxt5pf4xw07i&redirect=true)
 </details>
 
 <details open>
