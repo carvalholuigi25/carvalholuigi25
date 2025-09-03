@@ -9,7 +9,7 @@
   
   - 🌱 I’m currently learning **React, ASP Net Core, Angular, Blazor and C#.**
   
-  - 💬 Ask me about **Your career? My career is web programmer, engineer, technician and specialist of IT since 2015.**
+  - 💬 Ask me about **Your career? My career is web programmer, technician and specialist of IT since 2015.**
   
   - 📫 How to reach me **luiscarvalho239@gmail.com**
 </details>
