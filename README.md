@@ -50,5 +50,6 @@
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=carvalholuigi25&show_icons=true&theme=radical&locale=en" alt="carvalholuigi25" /></p>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carvalholuigi25&theme=dark" alt="carvalholuigi25" /></p>
   <br />
+  <p align="center"><a href="https://gitfut.com/carvalholuigi25"><img src="https://gitfut.com/carvalholuigi25.png" width="240" alt="Carvalholuigi25's GitFut card"></a></p>
   <p align="center"><a href="https://wakatime.com/@a626850b-70c9-4c42-8aa5-c8b7c0b88963"><img src="https://wakatime.com/badge/user/a626850b-70c9-4c42-8aa5-c8b7c0b88963.svg" alt="Total time coded since Jul 14 2022" /></a></p>
 </details>
