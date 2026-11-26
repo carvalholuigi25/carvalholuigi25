@@ -5,9 +5,9 @@
   <h1 align="center">Hi 👋, I'm Luis Carvalho, my friends call me Luigi</h1>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carvalholuigi25&column=4&row=3&margin-w=15&margin-h=15&theme=radical&no-bg=false&no-frame=true" alt="carvalholuigi25" /></a></p>
   
-  - 🔭 I’m currently working on my own projects related to LCP (Luigi Carvalho Projects).
+  - 🔭 I’m currently working in company Bsurance and also, i'm working in my own projects related to LCP (Luigi Carvalho Projects).
   
-  - 🌱 I’m currently learning **React, ASP Net Core, Angular, Blazor and C#.**
+  - 🌱 I’m currently learning **React, ASP Net Core, Angular, Blazor, Python and C#.**
   
   - 💬 Ask me about **Your career? My career is web programmer, technician and specialist of IT since 2015.**
   
